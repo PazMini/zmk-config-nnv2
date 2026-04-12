@@ -1,6 +1,0 @@
-config SHIELD_ERGOKEYS_LEFT
-    def_bool $(shields_list_contains,ergokeys_left)
-
-config SHIELD_ERGOKEYS_RIGHT
-    def_bool $(shields_list_contains,ergokeys_right)
-
